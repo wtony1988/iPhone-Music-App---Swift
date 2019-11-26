@@ -1,0 +1,6 @@
+framework module Pods_LAVESHMUSICTests {
+  umbrella header "Pods-LAVESHMUSICTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
